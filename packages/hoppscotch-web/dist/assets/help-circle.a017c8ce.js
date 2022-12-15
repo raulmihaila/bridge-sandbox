@@ -1,0 +1,2 @@
+import{o,d as t,e}from"./index.86d7e4bf.js";const c={preserveAspectRatio:"xMidYMid meet",viewBox:"0 0 24 24",width:"1.2em",height:"1.2em"},r=e("g",{fill:"none",stroke:"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2"},[e("circle",{cx:"12",cy:"12",r:"10"}),e("path",{d:"M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3m.08 4h.01"})],-1),i=[r];function n(s,d){return o(),t("svg",c,i)}const a={name:"lucide-help-circle",render:n};export{a as I};
+//# sourceMappingURL=help-circle.a017c8ce.js.map

@@ -1,0 +1,2 @@
+import{o as e,d as o,e as t}from"./index.86d7e4bf.js";const c={preserveAspectRatio:"xMidYMid meet",viewBox:"0 0 24 24",width:"1.2em",height:"1.2em"},r=t("circle",{cx:"12",cy:"12",r:"10",fill:"none",stroke:"currentColor","stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2"},null,-1),n=[r];function i(s,l){return e(),o("svg",c,n)}const a={name:"lucide-circle",render:i};export{a as I};
+//# sourceMappingURL=circle.f91b5512.js.map
